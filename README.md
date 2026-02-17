@@ -1,6 +1,6 @@
 # Ramzy-Ismail-Notion-Portfolio
 Additional professional details on my work experience, community projects, and startups.
-[Portfolio link]([url](https://www.notion.so/2019ramzy/Professional-Portfolio-Feb-26-2d46b46b70f88000bcbedaa81f69c997?source=copy_link
+[Portfolio link]((https://www.notion.so/2019ramzy/Professional-Portfolio-Feb-26-2d46b46b70f88000bcbedaa81f69c997?source=copy_link
 )) 
 
 Calendly link --> 
